@@ -7,6 +7,8 @@ Simple, effective colour transfer using linear algebra. Supports arbitrary image
 * The primary extension is that now colour can be arbitrarily sampled from a reference image using binary masking and applied selectively to a target image also using binary masking (see examples). 
 * This method is much more stable than simple matching of mean and standard deviation (see baseline example comparison). 
 
+## Examples
+
 *Baseline Example*
 ![baseline_example](https://github.com/fyz11/Linear-Colour-Transfer/blob/master/results/baseline.png)
 
@@ -16,5 +18,5 @@ Simple, effective colour transfer using linear algebra. Supports arbitrary image
 *Example 2: Selective recoloring using image masking on the target image*
 ![example_1](https://github.com/fyz11/Linear-Colour-Transfer/blob/master/results/example2.png)
 
-*Example 3: 
+*Example 3: Selective color sampling from reference image and selective recoloring on the target image* 
 ![example_1](https://github.com/fyz11/Linear-Colour-Transfer/blob/master/results/example3.png)
