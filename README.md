@@ -8,13 +8,13 @@ Simple, effective colour transfer using linear algebra. Supports arbitrary image
 * This method is much more stable than simple matching of mean and standard deviation (see baseline example comparison). 
 
 *Baseline Example*
-![baseline_example](https://github.com/fyz11/Linear-Colour-Transfer/results/baseline.png)
+![baseline_example](https://github.com/fyz11/Linear-Colour-Transfer/blob/master/results/baseline.png)
 
 *Example 1: Full colour transfer based on a reference image*
-![example_1](https://github.com/fyz11/Linear-Colour-Transfer/results/example1.png)
+![example_1](https://github.com/fyz11/Linear-Colour-Transfer/blob/master/results/example1.png)
 
 *Example 2: Selective recoloring using image masking on the target image*
-![example_1](https://github.com/fyz11/Linear-Colour-Transfer/results/example2.png)
+![example_1](https://github.com/fyz11/Linear-Colour-Transfer/blob/master/results/example2.png)
 
 *Example 3: 
-![example_1](https://github.com/fyz11/Linear-Colour-Transfer/results/example3.png)
+![example_1](https://github.com/fyz11/Linear-Colour-Transfer/blob/master/results/example3.png)
